@@ -43,3 +43,15 @@
 .button {
     text-align: center;
 }
+
+.Answer h2 {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 10px 10rem 5px 10rem;
+    /* margin-left: 50%;
+    margin-right: 50%; */
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
